@@ -12,4 +12,4 @@
 
 - HTML5 + CSS3
 
-https://github.com/gm-reis/login_page/blob/master/study_share_print.JPG
+
